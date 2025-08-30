@@ -1,1 +1,1 @@
-# medical_image_predictor-Django
+# medical_image_predictor_Django
